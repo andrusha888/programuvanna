@@ -8,6 +8,7 @@
   <li><a href="https://github.com/andrusha888/programuvanna/tree/%D0%9F%D0%A03" >пр3</a></li><br>
   <li><a href="https://github.com/andrusha888/programuvanna/tree/%D0%9F%D0%A04" >пр4</a></li><br>
   <li><a href="https://github.com/andrusha888/programuvanna/tree/%D0%9F%D0%A05" >пр5</a></li><br>
-  <li><a href="https://github.com/andrusha888/programuvanna/tree/%D0%9F%D0%A06" >пр6</a></li><br></ul>
+  <li><a href="https://github.com/andrusha888/programuvanna/tree/%D0%9F%D0%A06" >пр6</a></li><br>
+  <li><a href="https://github.com/andrusha888/programuvanna/tree/%D0%9F%D0%A07" >пр7</a></li><br></ul>
   </ul>
 <div/>
